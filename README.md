@@ -9,29 +9,29 @@ from digital transformatition to lean growth
 our aim is agile auto active
 
 # devops stack
-## apix 
+## apix [guide](https://bigide.com/apix)
 for api management, monitor, analytics
-## codex 
+## codex [guide](https://bigide.com/codex)
 for code generator and management
-## testx 
+## testx [guide](https://bigide.com/testx)
 for test management,auto test
-## wikix 
+## wikix [guide](https://bigide.com/wikix)
 for knowledge management
-## pmmap 
+## mapx [guide](https://bigide.com/mapx)
 for pm to manage the product map
 
 
 # dataOps stack
 
-## datax 
+## datax [guide](https://bigide.com/datax)
 for data devlopment data management
-## flowx 
+## flowx [guide](https://bigide.com/flowx)
 for data workflow dataflow control
-## metax 
+## metax [guide](https://bigide.com/metax)
 for metadata management catelog, data quality, data gov, data assets
-## pipex 
+## pipex [guide](https://bigide.com/pipex)
 for data service data pipeline
-## reportx 
+## reportx [guide](https://bigide.com/reportx)
 for bi report and data visualization
 
 
