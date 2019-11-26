@@ -80,13 +80,13 @@ BIGIDE EE（企业版本）拥有更强大的功能、插件库以及专业的�
 购买咨询邮箱：sales@bigide.com<br>
 微信公众号: bigide<br>
 技术支持（微信ID）： pthunter<br>
-<br>
+<p>
+
 # 关于我们
 BIGIDE 致力于利用开元技术帮助企业数字化转型。
 # 授权
-<p>
-BIGIDE商标 为小镇之家科技版权所有<br>
-产品发布基于GNU V3 发布<br>
+BIGIDE商标 为小镇之家科技版权所有,未经授权禁止使用<br>
+## 产品发布基于GNU V3 发布
 Licensed under the GNU General Public License v3.0 (the "License");<br>
 you may not use this file except in compliance with the License.<br>
 You may obtain a copy of the License at http://www.gnu.org/licenses/gpl-3.0.html<br>
