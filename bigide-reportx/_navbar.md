@@ -1,0 +1,6 @@
+* [首页](home.md)
+* [快速开始](quickstart.md)
+* [最佳实践](best-practise.md)
+* [图表模板](templates.md)
+* [源码](https://github.com/bigide/bigide-reportx)
+* [交流](wechat.md)
